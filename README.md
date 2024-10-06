@@ -21,6 +21,10 @@ we support in DNSSEC are as follows:
 |           Falcon-512         |         17          |
 |           Dilithium2         |         18          |
 | SPHINCS+-SHA-256-128s Simple |         19          |
+| SL-DNSSEC                    |         20          |
+| Falcon-1024                  |         21          |
+| Dilithium5                   |         22          |
+
 
 We opted to start the algorithm IDs at 17 because of the discussion seen
 [here](https://mailarchive.ietf.org/arch/msg/dnsop/2xKvE-g1WU5VozEDN7-h2e5y-MQ/).
